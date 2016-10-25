@@ -1,0 +1,13 @@
+{
+  "name": "kirchbergerknorr/Kirchbergerknorr_Importer",
+  "description": "Import Data to Magento through powerful config.",
+  "type": "magento-module",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Nick Dilßner",
+      "email": "nd@kirchbergerknorr.de"
+    }
+  ],
+  "require": {}
+}
