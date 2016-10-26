@@ -24,6 +24,7 @@ Import Data to Magento through powerful config.
     - more Decorators
     - make config through backend possible
     - mapping filter as object
+    - create Extractors -> like BBCodes/Wysiwyg
 
 - Config
     - (MAYBE) other Logger possibility
@@ -34,10 +35,15 @@ Import Data to Magento through powerful config.
 
 - Reader
     - read in buckets -> not every time possible, but build a wrapper for it
+    - Extractors
+        - implement
 
 - Decorator
     - HtmlList
         - merge leafs to one li
+
+- Worker
+    - make model creation more generic for easier add of new models -> Model Injection
 
 ## Example
 
