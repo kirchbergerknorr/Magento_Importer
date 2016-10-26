@@ -1,5 +1,5 @@
 {
-  "name": "kirchbergerknorr/Kirchbergerknorr_Importer",
+  "name": "kirchbergerknorr/Magento_Importer",
   "description": "Import Data to Magento through powerful config.",
   "type": "magento-module",
   "license": "OSL-3.0",
